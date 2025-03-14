@@ -1,7 +1,7 @@
-# Skiv Bank Management System
+# Bank Management System
 
 ## Overview
-Skiv Bank Management System is a Java-based application developed using Swing for the GUI and MySQL for database management. This system allows an admin to manage bank accounts, perform transactions such as deposits and withdrawals, view account details, and delete accounts.
+Bank Management System is a Java-based application developed using Swing for the GUI and MySQL for database management. This system allows an admin to manage bank accounts, perform transactions such as deposits and withdrawals, view account details, and delete accounts.
 
 ## Features
 - Create a new bank account
